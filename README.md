@@ -1,5 +1,5 @@
 
-![png-transparent-markdown-computer-icons-sublime-text-down-arrow-angle-text-rectangle](https://user-images.githubusercontent.com/82805037/206870009-a8aa40cf-68a7-4652-8545-bcdc798481b2.png)
+![markdown-433293](https://user-images.githubusercontent.com/82805037/206870101-14bd64d8-6262-4b98-9393-6ecb4dce1b70.png)
 
 # Sample NodeJS application for Azure Pipelines docs
 
